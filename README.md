@@ -1,2 +1,2 @@
 # stock-analysis
-We will be assisting Steve in analyze green energy stocks in comparison to DACO New Energy Corp. We will be using VBA to automate tasks in Excel. 
+We will be assisting Steve in analyzing green energy stocks in comparison to DACO New Energy Corp. We will be using VBA to automate the tasks in Excel. We automated finding the volume and yearly returns for each of the stocks that were included in the dataset. There a functions and buttons provided so that Steve can use any dataset under the same format of the previous ones so that he can check the performance of stocks at any time.
