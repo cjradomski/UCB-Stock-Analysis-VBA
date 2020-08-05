@@ -1,2 +1,6 @@
-# stock-analysis
-We will be assisting Steve in analyzing green energy stocks in comparison to DACO New Energy Corp. We will be using VBA to automate the tasks in Excel. We automated finding the volume and yearly returns for each of the stocks that were included in the dataset. There a functions and buttons provided so that Steve can use any dataset under the same format of the previous ones so that he can check the performance of stocks at any time.
+# Stock Analysis Using VBA
+In this analysis, VBA was used to automate tasks in an Excel spreadsheet to determine the performance of certain green energy stocks for the years 2017 and 2018.
+Macros/subroutines were created to find the volume and yearly returns for each of the stocks that were included in the dataset. 
+
+green_stocks.xlsm contains the datasets and the VBa code for the macros that were created. "2017 All Stocks.pdf" and "2018 All Stocks.pdf" show the results of the analysis.
+
